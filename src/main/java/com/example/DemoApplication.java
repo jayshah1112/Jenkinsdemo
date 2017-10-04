@@ -20,6 +20,6 @@ class EquifaxController{
 	  	
   @RequestMapping("/")
   String message(){
-    return  "Hello Moto!!!";
+    return  "Hello Jay";
   }
 }
